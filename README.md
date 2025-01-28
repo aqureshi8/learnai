@@ -1,2 +1,2 @@
 # learnai
-Repository for learning about AI
+Simple repository for me to gather knowledge about artificial intelligence.
